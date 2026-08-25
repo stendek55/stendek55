@@ -1,16 +1,42 @@
-## Hi there 👋
+# 🧑‍💻 Stefan Senftleben
+### Informationstechnologie - Medieninformatiker (Bachelor of Engineering)
+### &
+### Fachinformatiker für Anwendungsentwicklung
+### Software-Entwickler | Linux-Spezialist
 
-<!--
-**stendek55/stendek55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Dresden  
 
-Here are some ideas to get you started:
+💼 Offen für neue berufliche Herausforderung (Festanstellung / Praktikum)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 s.senftleben [ÄTT] gmx [PKT] de
+
+---
+
+# 🚀 Über mich
+
+Seit vielen Jahren bewege ich mich ausschließlich und leidenschaftlich im Linux-Ökosystem (bevorzugt Debian). Meine Heimat ist die Konsole. Ich kombiniere **Vim/Neovim mit tmux** für ein effizientes Arbeiten mit Sitzungen und Fenstern direkt im Terminal – auch aus der Ferne über sichere SSH-Verbindungen.
+
+Programmieren ist für mich kein reiner Job, sondern echte Leidenschaft und Spaß. Ich besitze eine extrem schnelle Auffassungsgabe für neue Architekturen und vertiefe mein Wissen aktuell intensiv in der Programmiersprache **Rust** sowie im Bereich **TDD (testgetriebene Entwicklung)**, um fehlerfreien Code zu erstellen. Das Lernen von Rust bereitet mir dabei auch richtig Freude. 
+
+Auch in meiner Freizeit treibt mich die Neugier an: Ich programmiere zum Spaß auf dem **Raspberry Pi** und löse auch dort jede Aufgabe konsequent über die Konsole. Ich bin sehr teamfähig, besitze ein ausgeprägtes mathematisches Verständnis und habe den festen Willen, mich ständig weiterzuentwickeln.
+
+### 🧠 Was mich als Entwickler auszeichnet:
+
+* 🐧 **Linux & Konsole:** Langjähriger Linux-Nutzer (Debian).
+* 🛠️ **Hocheffiziente Arbeitsweise:** Neovim + tmux. Der konsequente Verzicht auf die Maus spart Zeit und sorgt für extrem schnelles Arbeiten.
+* 🧪 **Code-Qualität durch testgetriebene Entwicklung (TDD):** Ich schreibe Tests, *bevor* ich den eigentlichen Code verfasse. Das sorgt für sichere Architekturen und wartungsfreundlichen Code.
+* 👥 **Teamgeist & Entwicklung:** Ich füge mich hervorragend in Teams ein, teile Wissen gerne und suche gezielt nach neuen Herausforderungen, um meine Fähigkeiten kontinuierlich auszubauen.
+* ⚡ **Schnelle Auffassungsgabe:** Extrem schnelle Einarbeitung in neue Technologien und Programmierwerkzeuge durch eine hohe innere Motivation und logisches Systemverständnis.
+
+---
+
+## 🛠️ Technologie-Stack & Fähigkeiten
+
+| Bereich | Technologien |
+| :--- | :--- |
+| **Betriebssysteme & Distributionen** | Debian Linux • Ubuntu • LinuxMint • Raspberry Pi OS |
+| **Editoren & Netzwerk** | Vim • Neovim • tmux • Git • SSH (Schlüsselverwaltung) |
+| **Backend & Systementwicklung** | Rust (im intensiven Lernen) • TDD • Python • PHP |
+| **Frontend & Web** | HTML • CSS • JavaScript |
+
+---
