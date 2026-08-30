@@ -1,12 +1,12 @@
 # 🧑‍💻 Stefan Senftleben
 ### Informationstechnologie - Medieninformatiker (Bachelor of Engineering)
-### &
+### sowie
 ### Fachinformatiker für Anwendungsentwicklung
 ### Software-Entwickler | Linux Power User & Advocate
 
 📍 Dresden  
 
-💼 Offen für neue berufliche Herausforderung (Festanstellung / Praktikum)  
+💼 Offen für neue berufliche Herausforderung (Festanstellung / Probearbeit / Praktikum)  
 
 📧 s.senftleben [ÄTT] gmx [PKT] de
 
@@ -14,7 +14,7 @@
 
 # 🚀 Über mich
 
-Seit vielen Jahren bewege ich mich ausschließlich und leidenschaftlich im Linux-Ökosystem (bevorzugt Debian). Meine Heimat ist die Konsole. Ich kombiniere **Vim/Neovim mit tmux** für ein effizientes Arbeiten mit Sitzungen und Fenstern direkt im Terminal – auch aus der Ferne über sichere SSH-Verbindungen.
+Seit vielen Jahren bewege ich mich ausschließlich und leidenschaftlich im Linux-Ökosystem (bevorzugt Debian). Meine Heimat ist die Konsole. Ich kombiniere **Neovim & tmux** für ein effizientes Arbeiten mit Sitzungen und Fenstern direkt im Terminal – auch aus der Ferne über sichere SSH-Verbindungen.
 
 Programmieren ist für mich kein reiner Job, sondern echte Leidenschaft und Spaß. Ich besitze eine extrem schnelle Auffassungsgabe für neue Architekturen und vertiefe mein Wissen aktuell intensiv in der Programmiersprache **Rust** sowie im Bereich **TDD (testgetriebene Entwicklung)**, um fehlerfreien Code zu erstellen. Das Lernen von Rust bereitet mir dabei auch richtig Freude. 
 
