@@ -2,7 +2,7 @@
 ### Informationstechnologie - Medieninformatiker (Bachelor of Engineering)
 ### &
 ### Fachinformatiker für Anwendungsentwicklung
-### Software-Entwickler | Linux-Spezialist
+### Software-Entwickler | Linux Power User & Advocate
 
 📍 Dresden  
 
