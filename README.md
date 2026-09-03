@@ -28,6 +28,7 @@ Auch in meiner Freizeit treibt mich die Neugier an: Ich programmiere zum Spaß a
 > * **Keine Crates / Bibliotheken:** Ich verzichte auf externe Abhängigkeiten und schreibe alles selbst von Grund auf neu (Ausnahme: Standardbibliothek & `rand`).
 > * **Deep Learning & Problem Solving:** Ich löse Low-Level-Probleme und Compiler-Fehler bewusst selbst, statt fertige Lösungen zusammenzustecken. Das schult meine Frustrationstoleranz und mein Verständnis für Systemarchitektur.
 > * **KI nur als Mentor:** Ich nutze KI ausschließlich für Erklärungen. Jedes Zeichen Code ist von mir selbst geschrieben.
+> * **Cargo-Clippy:** als automatisierten Code-Reviewer: Er generiert keinen Code für mich, sondern analysiert meine Syntax und weist mich auf unidiomatische Muster hin. So lerne ich direkt am eigenen Code, wie ich die Standardbibliothek optimal und im echten *Rust-Stil* nutze.
 > * **Echter Wissensstand:** Mein GitHub-Profil zeigt mein tatsächliches Verständnis – ohne generierte Ergebnisse. Ich will jede Zeile durchdringen.
 > * **Rust-Buch:** Derzeit arbeite ich auch das offizielle Rust-Buch komplett durch.
 > 
