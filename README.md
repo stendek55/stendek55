@@ -20,6 +20,19 @@ Programmieren ist für mich kein reiner Job, sondern echte Leidenschaft und Spa�
 
 Auch in meiner Freizeit treibt mich die Neugier an: Ich programmiere zum Spaß auf dem **Raspberry Pi** und löse auch dort jede Aufgabe konsequent über die Konsole. Ich bin sehr teamfähig, besitze ein ausgeprägtes mathematisches Verständnis und habe den festen Willen, mich ständig weiterzuentwickeln.
 
+---
+> ### 🦀 Mein Rust-Lernweg: 100% Eigenarbeit 
+> 
+> Ich lerne derzeit intensiv **Rust** und verfolge ein striktes Prinzip für maximalen Lerneffekt:
+> 
+> * **Keine Crates / Bibliotheken:** Ich verzichte auf externe Abhängigkeiten und schreibe alles selbst von Grund auf neu (Ausnahme: Standardbibliothek & `rand`).
+> * **Deep Learning & Problem Solving:** Ich löse Low-Level-Probleme und Compiler-Fehler bewusst selbst, statt fertige Lösungen zusammenzustecken. Das schult meine Frustrationstoleranz und mein Verständnis für Systemarchitektur.
+> * **KI nur als Mentor:** Ich nutze KI ausschließlich für Erklärungen. Jedes Zeichen Code ist von mir selbst geschrieben.
+> * **Echter Wissensstand:** Mein GitHub-Profil zeigt mein tatsächliches Verständnis – ohne generierte Ergebnisse. Ich will jede Zeile durchdringen.
+> 
+> *(Hinweis zum Profil: Während mein Code zu 100 % selbst geschrieben ist, lasse ich mir von der KI dabei helfen, meine READMEs sauber und ansprechend zu formatieren!)*😊
+---
+
 ### 🧠 Was mich als Entwickler auszeichnet:
 
 * 🐧 **Linux & Konsole:** Langjähriger Linux-Nutzer (Debian).
