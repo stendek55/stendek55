@@ -29,6 +29,7 @@ Auch in meiner Freizeit treibt mich die Neugier an: Ich programmiere zum Spaß a
 > * **Deep Learning & Problem Solving:** Ich löse Low-Level-Probleme und Compiler-Fehler bewusst selbst, statt fertige Lösungen zusammenzustecken. Das schult meine Frustrationstoleranz und mein Verständnis für Systemarchitektur.
 > * **KI nur als Mentor:** Ich nutze KI ausschließlich für Erklärungen. Jedes Zeichen Code ist von mir selbst geschrieben.
 > * **Echter Wissensstand:** Mein GitHub-Profil zeigt mein tatsächliches Verständnis – ohne generierte Ergebnisse. Ich will jede Zeile durchdringen.
+> * **Rust-Buch:** Derzeit arbeite ich auch das offizielle Rust-Buch komplett durch.
 > 
 > *(Hinweis zum Profil: Während mein Code zu 100 % selbst geschrieben ist, lasse ich mir von der KI dabei helfen, meine READMEs sauber und ansprechend zu formatieren!)*😊
 ---
