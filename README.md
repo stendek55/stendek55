@@ -27,7 +27,7 @@ Programmieren ist für mich kein reiner Job, sondern echte Leidenschaft und Spa�
 
 Auch in meiner Freizeit treibt mich die Neugier an: Ich programmiere zum Spaß auf dem **Raspberry Pi** und löse auch dort jede Aufgabe konsequent über die Konsole. Ich bin sehr teamfähig, besitze ein ausgeprägtes mathematisches Verständnis und habe den festen Willen, mich ständig weiterzuentwickeln.
 
-**Oldschool-Fundament, Newschool-Mindset**. Meine Ausbildung liegt in der „Vor-KI-Zeit“ – echtes Handwerk gelernt durch Bücher, Logik und stundenlanges Debuggen mit starren auf den Bildschirm statt durch Prompts. Ich beherrsche die Grundlagen von der Pike auf und verstehe meinen Code auch dann, wenn die OpenAI-Server down sind. Heute nutze ich KI gerne als Turbo, aber das tiefe Verständnis kommt aus dem eigenen Kopf.
+**Oldschool-Fundament, Newschool-Mindset**. Meine Ausbildung und Studium liegt in der „Vor-KI-Zeit“ – echtes Handwerk gelernt durch Bücher, Logik und stundenlanges Debuggen mit starren auf den Bildschirm statt durch Prompts. Ich beherrsche die Grundlagen von der Pike auf und verstehe meinen Code auch dann, wenn die OpenAI-Server down sind. Heute nutze ich KI gerne als Turbo, aber das tiefe Verständnis kommt aus dem eigenen Kopf.
 
 ---
 
