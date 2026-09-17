@@ -11,7 +11,7 @@
 
 Wohnort: ***Dresden***  
 
-Ziel: ***Festanstellung in Vollzeit/Teilzeit als Software-Entwickler oder in vergleichbaren IT-Rollen***  
+Ziel: ***Festanstellung in Vollzeit / Teilzeit als Software-Entwickler oder in vergleichbaren IT-Rollen***  
 
 Verfügbarkeit: ***Ab sofort (Bereit für Probearbeit / Kurzpraktikum)***
 
@@ -26,6 +26,8 @@ Seit vielen Jahren bewege ich mich ausschließlich und leidenschaftlich im Linux
 Programmieren ist für mich kein reiner Job, sondern echte Leidenschaft und Spaß. Ich besitze eine extrem schnelle Auffassungsgabe für neue Architekturen und vertiefe mein Wissen aktuell intensiv in der Programmiersprache **Rust** sowie im Bereich **TDD**, um fehlerfreien Code zu erstellen. Das Erlernen von Rust betrachte ich als wertvollen Schritt, um mein Profil zukunftsorientiert und mit hohem persönlichen Interesse zu erweitern.
 
 Auch in meiner Freizeit treibt mich die Neugier an: Ich programmiere zum Spaß auf dem **Raspberry Pi** und löse auch dort jede Aufgabe konsequent über die Konsole. Ich bin sehr teamfähig, besitze ein ausgeprägtes mathematisches Verständnis und habe den festen Willen, mich ständig weiterzuentwickeln.
+
+**Oldschool-Fundament, Newschool-Mindset**. Meine Ausbildung liegt in der „Vor-KI-Zeit“ – echtes Handwerk gelernt durch Bücher, Logik und stundenlanges Debuggen mit starren auf den Bildschirm statt durch Prompts. Ich beherrsche die Grundlagen von der Pike auf und verstehe meinen Code auch dann, wenn die OpenAI-Server down sind. Heute nutze ich KI gerne als Turbo, aber das tiefe Verständnis kommt aus dem eigenen Kopf.
 
 ---
 
