@@ -21,8 +21,7 @@ Kontakt: ***s.senftleben [ÄTT] gmx [PKT] de***
 
 ### Über mich:
 
-Seit vielen Jahren bewege ich mich leidenschaftlich im Linux-Ökosystem (bevorzugt Debian). Meine Heimat ist das Terminal. Ich kombiniere **Neovim & tmux** für ein effizientes Arbeiten.
-
+Seit vielen Jahren bewege ich mich leidenschaftlich im **Linux-Ökosystem** (bevorzugt Debian). Meine Heimat ist das Terminal. Ich kombiniere **Neovim & tmux** für ein effizientes Arbeiten.
 Programmieren ist für mich kein reiner Job, sondern Leidenschaft und Spaß. Ich besitze eine schnelle Auffassungsgabe und vertiefe mein Wissen aktuell intensiv in **Rust** sowie im Bereich **TDD**. Das Erlernen von Rust betrachte ich als wertvollen Schritt, um mein Profil zukunftsorientiert und mit hohem persönlichen Interesse zu erweitern.
 
 Auch in meiner Freizeit treibt mich die Neugier an: Ich programmiere zum Spaß auf dem **Raspberry Pi** und löse auch dort jede Aufgabe konsequent über die Konsole. Ich bin sehr teamfähig, besitze ein ausgeprägtes mathematisches Verständnis und habe den festen Willen, mich ständig weiterzuentwickeln.
