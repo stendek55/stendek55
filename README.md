@@ -42,6 +42,10 @@ Ich suche eine neue Herausforderung - am liebsten in der **Softwareentwicklung (
 
 ---
 
+<img src="mandelbrot55.png" width="55%" /><><img src="sierpi55.png" width="42%" />
+
+---
+
 ## Technologie-Stack & Fähigkeiten:
 
 | Bereich | Technologien |
